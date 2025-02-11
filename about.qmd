@@ -2,7 +2,7 @@
 title: "Kelby Palmer"
 image: profile.jpg
 about:
-  template: morph
+  template: jolla
   links:
     - icon: twitter
       text: Twitter
